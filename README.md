@@ -46,8 +46,10 @@ paneles administrativos.
 **URL PRODUCCIÓN:** *coloca aquí tu endpoint*
 
 ## 📸 Capturas de Postman
-
-(Espacio reservado para imágenes)
+<img width="692" height="560" alt="image" src="https://github.com/user-attachments/assets/733ef22b-111e-4304-be37-30557efd055c" />
+<img width="1373" height="580" alt="image" src="https://github.com/user-attachments/assets/4f256e77-805e-4028-8e14-eae8df6fd7ad" />
+<img width="967" height="359" alt="image" src="https://github.com/user-attachments/assets/0a4c1ebf-8a72-4964-b45b-077c9c0d5ffa" />
+<img width="1093" height="407" alt="image" src="https://github.com/user-attachments/assets/6f314fbd-24fd-4e16-9ddd-50f3a9228d30" />
 
 ## 🚀 Cómo Ejecutar el Proyecto Localmente
 
@@ -92,6 +94,7 @@ Pull requests bienvenidos.
 ## 📄 Licencia
 
 MIT
+
 
 
 
