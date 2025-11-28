@@ -53,7 +53,7 @@ paneles administrativos.
 
 ### 1️⃣ Clonar el repositorio
 
-    git clone [https://github.com/DeltaBairon/LibroTech_Backend.git](https://github.com/DeltaBairon/LibroTech_Backend.git)
+    git clone https://github.com/DeltaBairon/LibroTech_Backend.git
     cd api-libreria
 
 ### 2️⃣ Instalar dependencias
@@ -92,5 +92,6 @@ Pull requests bienvenidos.
 ## 📄 Licencia
 
 MIT
+
 
 
