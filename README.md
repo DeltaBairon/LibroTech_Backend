@@ -38,12 +38,8 @@ paneles administrativos.
 
 -   Node.js + Express\
 -   PostgreSQL\
--   Sequelize / pg\
--   dotenv\
--   Cors / Helmet\
--   Nodemon\
--   Git + GitHub\
--   Azure / Render / Railway
+-   Azure
+-   Postmant
 
 ## 🌐 URL de la API Desplegada
 
@@ -96,3 +92,4 @@ Pull requests bienvenidos.
 ## 📄 Licencia
 
 MIT
+
