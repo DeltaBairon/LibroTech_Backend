@@ -91,9 +91,6 @@ Crear archivo `.env` con ejemplo:
 
 Pull requests bienvenidos.
 
-## 📄 Licencia
-
-MIT
 
 
 
