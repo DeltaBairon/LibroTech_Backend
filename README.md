@@ -10,11 +10,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?logo=checkmarx)
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=checkmarx)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?logo=checkmarx)
-![Status](https://img.shields.io/badge/Status-Planning-lightgrey?logo=checkmarx)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?logo=semver)
 
 # 📚 API Librería --
 
@@ -108,6 +103,7 @@ Crear archivo `.env` con ejemplo:
 ## 🤝 Contribución
 
 Pull requests bienvenidos.
+
 
 
 
