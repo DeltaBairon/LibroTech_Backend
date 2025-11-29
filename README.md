@@ -1,4 +1,22 @@
-# 📚 API Librería --- README
+# Mi Proyecto Full Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=nodedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Platform-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-blue?logo=microsoftazure)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-Management-181717?logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow?logo=checkmarx)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=checkmarx)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow?logo=checkmarx)
+![Status](https://img.shields.io/badge/Status-Planning-lightgrey?logo=checkmarx)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?logo=semver)
+
+# 📚 API Librería --
 
 ## 📌 Descripción
 
@@ -90,6 +108,7 @@ Crear archivo `.env` con ejemplo:
 ## 🤝 Contribución
 
 Pull requests bienvenidos.
+
 
 
 
